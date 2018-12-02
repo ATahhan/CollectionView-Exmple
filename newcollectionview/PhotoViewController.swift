@@ -70,3 +70,10 @@ class PhotoViewController: UIViewController, UICollectionViewDataSource, UIColle
     
 }
 
+
+//bridge
+//eiffel
+//road
+//standing on the mountain
+//waterfall
+//winter
