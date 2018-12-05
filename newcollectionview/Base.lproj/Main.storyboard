@@ -47,6 +47,9 @@
                                             <constraint firstItem="uIA-V2-wFk" firstAttribute="leading" secondItem="Wr8-l5-O7D" secondAttribute="leading" id="onq-Rt-rfY"/>
                                         </constraints>
                                         <size key="customSize" width="140" height="119"/>
+                                        <connections>
+                                            <outlet property="imageView" destination="uIA-V2-wFk" id="vSy-VL-ZxP"/>
+                                        </connections>
                                     </collectionViewCell>
                                 </cells>
                                 <connections>

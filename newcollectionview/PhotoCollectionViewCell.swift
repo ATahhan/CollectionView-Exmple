@@ -11,5 +11,5 @@ import UIKit
 class PhotoCollectionViewCell : UICollectionViewCell {
     
     //TODO: Connect the IBOutlet of the ImageView
-
+    @IBOutlet weak var imageView:UIImageView!
 }
